@@ -1,1 +1,1 @@
-/* iniciando projeto */
+SELECT product_name FROM products;
